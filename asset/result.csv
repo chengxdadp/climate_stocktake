@@ -1,0 +1,15 @@
+Bloc,CO2 2024 (Mt),Equal per capita (Mt),Cut,Historical responsibility (Mt),Cut,Ability to pay (Mt),Cut
+United States,4904.12,792.3032219,-0.838441306,394.2326727,-0.919611944,2106.272324,-0.570509628
+European Union (27),2426.168,1032.758147,-0.574325378,-694.4063628,-1.286215284,-26.39546106,-1.010879486
+China,12289.037,3255.490275,-0.735089879,9332.473997,-0.24058541,8418.61432,-0.314949225
+India,3193.478,3328.004301,0.042125326,2508.25707,-0.214568859,1689.825816,-0.470850961
+Global South & Climate-Vulnerable Coalition,549.676,2826.775802,4.142621838,394.8534148,-0.281661534,92.35622183,-0.831980618
+Rest of World,14035.588,7463.701754,-0.468230205,6763.622708,-0.518109059,6418.36028,-0.54270813
+Total,37398.067,18699.0335,,18699.0335,,18699.0335,
+,,,,,,,
+Equal per capita: allowance = world 2035 budget x share of population.,,,,,,,
+Historical responsibility: allowance = 2024 emissions - (global reduction x share of cumulative emissions).,,,,,,,
+Ability to pay: allowance = 2024 emissions - (global reduction x share of GDP).,,,,,,,
+"All three sum to the same budget, so the total row checks your arithmetic rather than telling you anything.",,,,,,,
+,,,,,,,
+Global South & Climate-Vulnerable Coalition,2444.058,1493.288969,-0.389012467,1703.422146,-0.303035302,981.1069833,-0.598574591

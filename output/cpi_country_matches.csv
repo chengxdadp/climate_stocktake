@@ -1,0 +1,219 @@
+﻿country,cpi_country,cpi_match_found,alias_applied
+China,China,True,False
+Austria,Austria,True,False
+Belgium,Belgium,True,False
+Bulgaria,Bulgaria,True,False
+Croatia,Croatia,True,False
+Cyprus,Cyprus,True,False
+Czechia,Czechia,True,False
+Denmark,Denmark,True,False
+Estonia,Estonia,True,False
+Finland,Finland,True,False
+France,France,True,False
+Germany,Germany,True,False
+Greece,Greece,True,False
+Hungary,Hungary,True,False
+Ireland,Ireland,True,False
+Italy,Italy,True,False
+Latvia,Latvia,True,False
+Lithuania,Lithuania,True,False
+Luxembourg,Luxembourg,True,False
+Malta,Malta,True,False
+Netherlands,Netherlands,True,False
+Poland,Poland,True,False
+Portugal,Portugal,True,False
+Romania,Romania,True,False
+Slovakia,Slovakia,True,False
+Slovenia,Slovenia,True,False
+Spain,Spain,True,False
+Sweden,Sweden,True,False
+Afghanistan,Afghanistan,True,False
+Angola,Angola,True,False
+Antigua and Barbuda,Antigua and Barbuda,True,False
+Bahamas,Bahamas,True,False
+Bangladesh,Bangladesh,True,False
+Barbados,Barbados,True,False
+Belize,Belize,True,False
+Benin,Benin,True,False
+Bhutan,Bhutan,True,False
+Burkina Faso,Burkina Faso,True,False
+Burundi,Burundi,True,False
+Cambodia,Cambodia,True,False
+Cape Verde,Cabo Verde,True,True
+Central African Republic,Central African Republic,True,False
+Chad,Chad,True,False
+Comoros,Comoros,True,False
+Cuba,Cuba,True,False
+Democratic Republic of Congo,"Congo, Democratic Republic",True,True
+Djibouti,Djibouti,True,False
+Dominica,Dominica,True,False
+Dominican Republic,Dominican Republic,True,False
+East Timor,Timor-Leste,True,True
+Eritrea,Eritrea,True,False
+Ethiopia,Ethiopia,True,False
+Fiji,Fiji,True,False
+Gambia,Gambia,True,False
+Grenada,Grenada,True,False
+Guinea,Guinea,True,False
+Guinea-Bissau,Guinea-Bissau,True,False
+Guyana,Guyana,True,False
+Haiti,Haiti,True,False
+Jamaica,Jamaica,True,False
+Kiribati,Kiribati,True,False
+Laos,Lao People's Democratic Republic,True,True
+Lesotho,Lesotho,True,False
+Liberia,Liberia,True,False
+Madagascar,Madagascar,True,False
+Malawi,Malawi,True,False
+Maldives,Maldives,True,False
+Mali,Mali,True,False
+Marshall Islands,Marshall Islands,True,False
+Mauritania,Mauritania,True,False
+Mauritius,Mauritius,True,False
+Micronesia (country),Micronesia (Federated States of),True,True
+Mozambique,Mozambique,True,False
+Myanmar,Myanmar,True,False
+Nauru,Nauru,True,False
+Nepal,Nepal,True,False
+Niger,Niger,True,False
+Palau,Palau,True,False
+Papua New Guinea,Papua New Guinea,True,False
+Rwanda,Rwanda,True,False
+Saint Kitts and Nevis,Saint Kitts and Nevis,True,False
+Saint Lucia,Saint Lucia,True,False
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,True,False
+Samoa,Samoa,True,False
+Sao Tome and Principe,Sao Tome and Principe,True,False
+Senegal,Senegal,True,False
+Seychelles,Seychelles,True,False
+Sierra Leone,Sierra Leone,True,False
+Solomon Islands,Solomon Islands,True,False
+Somalia,Somalia,True,False
+South Sudan,South Sudan,True,False
+Sudan,Sudan,True,False
+Suriname,Suriname,True,False
+Tanzania,United Republic of Tanzania,True,True
+Togo,Togo,True,False
+Tonga,Tonga,True,False
+Trinidad and Tobago,Trinidad and Tobago,True,False
+Tuvalu,Tuvalu,True,False
+Uganda,Uganda,True,False
+Vanuatu,Vanuatu,True,False
+Yemen,Yemen,False,False
+Zambia,Zambia,True,False
+India,India,True,False
+Albania,Albania,True,False
+Algeria,Algeria,True,False
+Andorra,Andorra,True,False
+Anguilla,Anguilla,False,False
+Antarctica,Antarctica,False,False
+Argentina,Argentina,True,False
+Armenia,Armenia,True,False
+Aruba,Aruba,False,False
+Australia,Australia,True,False
+Azerbaijan,Azerbaijan,True,False
+Bahrain,Bahrain,True,False
+Belarus,Belarus,True,False
+Bermuda,Bermuda,False,False
+Bolivia,Bolivia,False,False
+Bonaire Sint Eustatius and Saba,Bonaire Sint Eustatius and Saba,False,False
+Bosnia and Herzegovina,Bosnia and Herzegovina,True,False
+Botswana,Botswana,True,False
+Brazil,Brazil,True,False
+British Virgin Islands,British Virgin Islands,False,False
+Brunei,Brunei,False,False
+Cameroon,Cameroon,True,False
+Canada,Canada,True,False
+Chile,Chile,True,False
+Christmas Island,Christmas Island,False,False
+Colombia,Colombia,True,False
+Congo,Congo,False,False
+Cook Islands,Cook Islands,True,False
+Costa Rica,Costa Rica,True,False
+Cote d'Ivoire,Cote d'Ivoire,False,False
+Curacao,Curacao,False,False
+Ecuador,Ecuador,True,False
+Egypt,Egypt,True,False
+El Salvador,El Salvador,True,False
+Equatorial Guinea,Equatorial Guinea,True,False
+Eswatini,Eswatini,True,False
+Faroe Islands,Faroe Islands,False,False
+French Polynesia,French Polynesia,False,False
+Gabon,Gabon,True,False
+Georgia,Georgia,True,False
+Ghana,Ghana,True,False
+Greenland,Greenland,False,False
+Guatemala,Guatemala,True,False
+Honduras,Honduras,True,False
+Hong Kong,Hong Kong,False,False
+Iceland,Iceland,True,False
+Indonesia,Indonesia,True,False
+Iran,Iran,False,False
+Iraq,Iraq,True,False
+Israel,Israel,True,False
+Japan,Japan,True,False
+Jordan,Jordan,True,False
+Kazakhstan,Kazakhstan,True,False
+Kenya,Kenya,True,False
+Kuwait,Kuwait,True,False
+Kyrgyzstan,Kyrgyzstan,True,False
+Lebanon,Lebanon,True,False
+Libya,Libya,False,False
+Liechtenstein,Liechtenstein,True,False
+Macao,Macao,False,False
+Malaysia,Malaysia,True,False
+Mexico,Mexico,True,False
+Moldova,Moldova,False,False
+Monaco,Monaco,True,False
+Mongolia,Mongolia,True,False
+Montenegro,Montenegro,True,False
+Montserrat,Montserrat,False,False
+Morocco,Morocco,True,False
+Namibia,Namibia,True,False
+New Caledonia,New Caledonia,False,False
+New Zealand,New Zealand,True,False
+Nicaragua,Nicaragua,True,False
+Nigeria,Nigeria,True,False
+Niue,Niue,True,False
+North Korea,North Korea,False,False
+North Macedonia,North Macedonia,True,False
+Norway,Norway,True,False
+Oman,Oman,True,False
+Pakistan,Pakistan,True,False
+Palestine,Palestine,False,False
+Panama,Panama,True,False
+Paraguay,Paraguay,True,False
+Peru,Peru,True,False
+Philippines,Philippines,True,False
+Qatar,Qatar,True,False
+Russia,Russia,False,False
+Saint Helena,Saint Helena,False,False
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,False,False
+San Marino,San Marino,True,False
+Saudi Arabia,Saudi Arabia,True,False
+Serbia,Serbia,True,False
+Singapore,Singapore,True,False
+Sint Maarten (Dutch part),Sint Maarten (Dutch part),False,False
+South Africa,South Africa,True,False
+South Korea,South Korea,False,False
+Sri Lanka,Sri Lanka,True,False
+Switzerland,Switzerland,True,False
+Syria,Syria,False,False
+Taiwan,Taiwan,False,False
+Tajikistan,Tajikistan,True,False
+Thailand,Thailand,True,False
+Tunisia,Tunisia,True,False
+Turkey,Turkey,False,False
+Turkmenistan,Turkmenistan,True,False
+Turks and Caicos Islands,Turks and Caicos Islands,False,False
+Ukraine,Ukraine,True,False
+United Arab Emirates,United Arab Emirates,True,False
+United Kingdom,United Kingdom,True,False
+Uruguay,Uruguay,True,False
+Uzbekistan,Uzbekistan,True,False
+Vatican,Vatican,False,False
+Venezuela,Venezuela,False,False
+Vietnam,Vietnam,False,False
+Wallis and Futuna,Wallis and Futuna,False,False
+Zimbabwe,Zimbabwe,True,False
+United States,United States,False,False

@@ -1,0 +1,219 @@
+﻿Country,ISO,Bloc,Population 2024,GDP 2022 (int'l $),CO2 2024 (Mt),Cumulative CO2 (Mt)
+China,CHN,China,"1,419,321,284","26,966,016,991,166","12,289.0","285,087.0"
+Austria,AUT,European Union (27),"9,120,815","398,815,419,150",56.4,"5,749.7"
+Belgium,BEL,European Union (27),"11,738,761","489,678,394,377",85.5,"12,906.2"
+Bulgaria,BGR,European Union (27),"6,757,686","138,390,156,500",31.6,"3,984.2"
+Croatia,HRV,European Union (27),"3,875,325","102,284,645,672",18.5,"1,184.7"
+Cyprus,CYP,European Union (27),"1,358,287","34,255,009,922",7.3,321.6
+Czechia,CZE,European Union (27),"10,735,857","342,966,849,621",75.6,"12,331.8"
+Denmark,DNK,European Union (27),"5,977,417","299,429,011,832",28.4,"4,199.7"
+Estonia,EST,European Union (27),"1,360,548","39,999,856,613",8.3,"1,668.5"
+Finland,FIN,European Union (27),"5,617,311","226,154,847,456",29.8,"3,324.8"
+France,FRA,European Union (27),"66,548,532","2,671,568,767,031",264.2,"40,047.6"
+Germany,DEU,European Union (27),"84,552,234","3,909,612,753,939",572.3,"95,135.7"
+Greece,GRC,European Union (27),"10,047,813","263,892,672,733",53.4,"4,296.8"
+Hungary,HUN,European Union (27),"9,676,135","285,385,229,433",40.0,"5,183.9"
+Ireland,IRL,European Union (27),"5,255,016","308,390,920,561",33.3,"2,366.4"
+Italy,ITA,European Union (27),"59,342,870","2,136,009,300,257",301.9,"26,005.9"
+Latvia,LVA,European Union (27),"1,871,874","51,248,480,035",6.5,980.8
+Lithuania,LTU,European Union (27),"2,859,112","84,814,257,826",12.5,"1,610.1"
+Luxembourg,LUX,European Union (27),"673,042","36,128,358,732",7.0,783.0
+Malta,MLT,European Union (27),"539,612","18,295,132,993",1.7,111.2
+Netherlands,NLD,European Union (27),"18,228,740","879,609,110,665",114.8,"12,261.7"
+Poland,POL,European Union (27),"38,539,209","1,231,021,338,216",272.9,"29,043.9"
+Portugal,PRT,European Union (27),"10,425,291","295,712,910,456",35.5,"2,767.6"
+Romania,ROU,European Union (27),"19,015,096","504,741,667,296",68.6,"8,861.8"
+Slovakia,SVK,European Union (27),"5,506,759","150,360,426,456",29.1,"4,028.3"
+Slovenia,SVN,European Union (27),"2,118,692","69,385,349,463",12.8,911.4
+Spain,ESP,European Union (27),"47,910,533","1,625,139,888,517",220.3,"15,700.2"
+Sweden,SWE,European Union (27),"10,606,993","494,214,521,158",38.1,"5,134.6"
+Afghanistan,AFG,Global South & Climate-Vulnerable Coalition,"42,647,502","53,303,471,617",10.8,242.6
+Angola,AGO,Global South & Climate-Vulnerable Coalition,"37,885,854","158,346,237,030",22.3,739.6
+Antigua and Barbuda,ATG,Global South & Climate-Vulnerable Coalition,"93,782",,0.7,26.9
+Bahamas,BHS,Global South & Climate-Vulnerable Coalition,"401,282",,3.1,180.6
+Bangladesh,BGD,Global South & Climate-Vulnerable Coalition,"173,562,366","858,143,907,016",108.3,"2,001.0"
+Barbados,BRB,Global South & Climate-Vulnerable Coalition,"282,476","3,408,005,977",1.4,63.9
+Belize,BLZ,Global South & Climate-Vulnerable Coalition,"417,077",,0.8,22.5
+Benin,BEN,Global South & Climate-Vulnerable Coalition,"14,462,721","33,290,362,034",6.1,128.4
+Bhutan,BTN,Global South & Climate-Vulnerable Coalition,"791,530",,1.7,29.8
+Burkina Faso,BFA,Global South & Climate-Vulnerable Coalition,"23,548,782","37,320,442,404",6.5,95.8
+Burundi,BDI,Global South & Climate-Vulnerable Coalition,"14,047,788","9,177,077,459",0.9,16.7
+Cambodia,KHM,Global South & Climate-Vulnerable Coalition,"17,638,804","65,136,593,996",21.9,251.6
+Cape Verde,CPV,Global South & Climate-Vulnerable Coalition,"524,878","4,251,154,554",0.6,16.9
+Central African Republic,CAF,Global South & Climate-Vulnerable Coalition,"5,330,691","3,752,056,621",0.4,12.3
+Chad,TCD,Global South & Climate-Vulnerable Coalition,"20,299,131","24,118,013,870",2.8,51.3
+Comoros,COM,Global South & Climate-Vulnerable Coalition,"866,632","1,682,076,951",0.6,7.5
+Cuba,CUB,Global South & Climate-Vulnerable Coalition,"10,979,781","84,154,971,449",24.4,"1,814.1"
+Democratic Republic of Congo,COD,Global South & Climate-Vulnerable Coalition,"109,276,264","91,314,988,450",5.9,238.7
+Djibouti,DJI,Global South & Climate-Vulnerable Coalition,"1,168,726","3,395,681,646",0.6,21.1
+Dominica,DMA,Global South & Climate-Vulnerable Coalition,"66,226","675,098,029",0.2,5.5
+Dominican Republic,DOM,Global South & Climate-Vulnerable Coalition,"11,427,558","191,182,362,267",33.1,869.2
+East Timor,TLS,Global South & Climate-Vulnerable Coalition,"1,400,638",,0.7,12.1
+Eritrea,ERI,Global South & Climate-Vulnerable Coalition,"3,535,610",,0.7,19.1
+Ethiopia,ETH,Global South & Climate-Vulnerable Coalition,"132,059,770","269,977,225,159",17.8,330.2
+Fiji,FJI,Global South & Climate-Vulnerable Coalition,"928,800",,1.4,54.1
+Gambia,GMB,Global South & Climate-Vulnerable Coalition,"2,759,999","4,656,793,663",0.8,17.7
+Grenada,GRD,Global South & Climate-Vulnerable Coalition,"117,218",,0.4,9.6
+Guinea,GIN,Global South & Climate-Vulnerable Coalition,"14,754,779","23,678,257,190",4.0,105.9
+Guinea-Bissau,GNB,Global South & Climate-Vulnerable Coalition,"2,201,360","3,259,313,986",0.3,8.3
+Guyana,GUY,Global South & Climate-Vulnerable Coalition,"831,092",,4.5,117.3
+Haiti,HTI,Global South & Climate-Vulnerable Coalition,"11,772,562","17,550,916,862",3.0,88.8
+Jamaica,JAM,Global South & Climate-Vulnerable Coalition,"2,839,182","20,019,224,153",8.4,485.2
+Kiribati,KIR,Global South & Climate-Vulnerable Coalition,"134,521",,0.1,2.3
+Laos,LAO,Global South & Climate-Vulnerable Coalition,"7,769,823","54,953,902,901",24.4,243.0
+Lesotho,LSO,Global South & Climate-Vulnerable Coalition,"2,337,428","4,761,723,180",2.6,72.3
+Liberia,LBR,Global South & Climate-Vulnerable Coalition,"5,612,813","4,231,561,135",0.9,52.5
+Madagascar,MDG,Global South & Climate-Vulnerable Coalition,"31,964,960","38,602,188,321",4.5,112.7
+Malawi,MWI,Global South & Climate-Vulnerable Coalition,"21,655,288","26,465,351,444",1.9,57.6
+Maldives,MDV,Global South & Climate-Vulnerable Coalition,"527,801",,2.3,33.7
+Mali,MLI,Global South & Climate-Vulnerable Coalition,"24,478,597","30,551,085,997",7.0,100.2
+Marshall Islands,MHL,Global South & Climate-Vulnerable Coalition,"37,572",,0.2,4.0
+Mauritania,MRT,Global South & Climate-Vulnerable Coalition,"5,169,403","15,674,544,913",5.2,99.9
+Mauritius,MUS,Global South & Climate-Vulnerable Coalition,"1,271,171","26,988,574,640",4.7,133.2
+Micronesia (country),FSM,Global South & Climate-Vulnerable Coalition,"113,171",,0.2,4.9
+Mozambique,MOZ,Global South & Climate-Vulnerable Coalition,"34,631,767","31,441,725,629",8.6,211.2
+Myanmar,MMR,Global South & Climate-Vulnerable Coalition,"54,500,086","291,025,085,135",31.6,727.9
+Nauru,NRU,Global South & Climate-Vulnerable Coalition,"11,968",,0.1,5.1
+Nepal,NPL,Global South & Climate-Vulnerable Coalition,"29,651,054","95,965,910,597",18.8,232.1
+Niger,NER,Global South & Climate-Vulnerable Coalition,"27,032,417","24,776,754,234",3.2,61.5
+Palau,PLW,Global South & Climate-Vulnerable Coalition,"17,719",,0.2,11.4
+Papua New Guinea,PNG,Global South & Climate-Vulnerable Coalition,"10,576,509",,8.3,209.7
+Rwanda,RWA,Global South & Climate-Vulnerable Coalition,"14,256,573","28,466,253,314",2.0,37.3
+Saint Kitts and Nevis,KNA,Global South & Climate-Vulnerable Coalition,"46,867",,0.3,8.0
+Saint Lucia,LCA,Global South & Climate-Vulnerable Coalition,"179,751","1,749,086,152",0.5,16.5
+Saint Vincent and the Grenadines,VCT,Global South & Climate-Vulnerable Coalition,"100,630",,0.3,8.0
+Samoa,WSM,Global South & Climate-Vulnerable Coalition,"218,031",,0.2,7.8
+Sao Tome and Principe,STP,Global South & Climate-Vulnerable Coalition,"235,548","825,238,400",0.1,4.0
+Senegal,SEN,Global South & Climate-Vulnerable Coalition,"18,501,988","51,913,993,763",14.1,300.6
+Seychelles,SYC,Global South & Climate-Vulnerable Coalition,"130,436","3,053,368,129",0.7,16.1
+Sierra Leone,SLE,Global South & Climate-Vulnerable Coalition,"8,642,029","11,681,270,534",1.4,42.6
+Solomon Islands,SLB,Global South & Climate-Vulnerable Coalition,"819,206",,0.3,11.6
+Somalia,SOM,Global South & Climate-Vulnerable Coalition,"19,009,155",,1.3,41.9
+South Sudan,SSD,Global South & Climate-Vulnerable Coalition,"11,943,410",,1.7,45.5
+Sudan,SDN,Global South & Climate-Vulnerable Coalition,"50,448,960",,17.8,517.0
+Suriname,SUR,Global South & Climate-Vulnerable Coalition,"634,438",,3.0,128.8
+Tanzania,TZA,Global South & Climate-Vulnerable Coalition,"68,560,162","198,220,407,805",20.0,344.9
+Togo,TGO,Global South & Climate-Vulnerable Coalition,"8,406,554","14,265,660,408",2.8,76.6
+Tonga,TON,Global South & Climate-Vulnerable Coalition,"104,192",,0.2,4.9
+Trinidad and Tobago,TTO,Global South & Climate-Vulnerable Coalition,"1,507,778","37,513,383,973",34.6,"1,711.0"
+Tuvalu,TUV,Global South & Climate-Vulnerable Coalition,"9,669",,0.0,0.3
+Uganda,UGA,Global South & Climate-Vulnerable Coalition,"50,015,091","101,995,416,951",6.3,131.4
+Vanuatu,VUT,Global South & Climate-Vulnerable Coalition,"327,786",,0.2,5.5
+Yemen,YEM,Global South & Climate-Vulnerable Coalition,"40,583,173","60,852,995,288",10.1,708.0
+Zambia,ZMB,Global South & Climate-Vulnerable Coalition,"21,314,962","68,469,600,029",12.0,300.8
+India,IND,India,"1,450,935,785","10,476,248,645,535","3,193.5","66,072.5"
+Albania,ALB,Rest of World,"2,791,756","36,171,005,594",4.4,307.9
+Algeria,DZA,Rest of World,"46,814,302","595,820,067,103",198.2,"5,476.6"
+Andorra,AND,Rest of World,"81,955",,0.4,16.7
+Anguilla,AIA,Rest of World,"14,623",,0.1,3.6
+Antarctica,ATA,Rest of World,,,0.0,0.2
+Argentina,ARG,Rest of World,"45,696,153","854,914,363,923",171.1,"9,151.5"
+Armenia,ARM,Rest of World,"2,973,843","39,721,734,780",7.4,406.7
+Aruba,ABW,Rest of World,"108,076",,0.9,75.8
+Australia,AUS,Rest of World,"26,713,206","1,344,251,444,393",386.7,"20,039.7"
+Azerbaijan,AZE,Rest of World,"10,336,577","175,370,552,026",39.8,"2,637.1"
+Bahrain,BHR,Rest of World,"1,607,059","58,769,760,175",39.0,"1,112.2"
+Belarus,BLR,Rest of World,"9,056,696","175,773,799,265",55.8,"5,184.2"
+Bermuda,BMU,Rest of World,"64,660",,0.6,31.0
+Bolivia,BOL,Rest of World,"12,413,318","78,165,311,428",28.7,641.2
+Bonaire Sint Eustatius and Saba,BES,Rest of World,"30,699",,0.2,10.6
+Bosnia and Herzegovina,BIH,Rest of World,"3,164,256","47,069,138,435",19.4,"1,043.5"
+Botswana,BWA,Rest of World,"2,521,145","39,293,967,463",7.5,184.3
+Brazil,BRA,Rest of World,"211,998,565","3,187,412,907,763",483.0,"18,198.7"
+British Virgin Islands,VGB,Rest of World,"39,498",,0.2,6.3
+Brunei,BRN,Rest of World,"462,734",,12.1,427.8
+Cameroon,CMR,Rest of World,"29,123,748","82,727,797,383",9.6,309.2
+Canada,CAN,Rest of World,"39,742,429","1,761,295,624,423",533.3,"35,644.1"
+Chile,CHL,Rest of World,"19,764,774","448,338,105,532",78.7,"3,324.9"
+Christmas Island,CXR,Rest of World,,,0.0,1.3
+Colombia,COL,Rest of World,"52,886,360","742,716,953,392",92.7,"3,802.0"
+Congo,COG,Rest of World,"6,332,969","23,679,011,891",8.8,191.1
+Cook Islands,COK,Rest of World,"13,750",,0.1,2.7
+Costa Rica,CRI,Rest of World,"5,129,909","80,345,898,158",8.8,285.8
+Cote d'Ivoire,CIV,Rest of World,"31,934,229","121,471,995,793",14.8,400.1
+Curacao,CUW,Rest of World,"185,482",,2.3,532.0
+Ecuador,ECU,Rest of World,"18,135,478","175,028,884,708",46.0,"1,391.2"
+Egypt,EGY,Rest of World,"116,538,256","1,460,427,350,416",258.4,"7,471.5"
+El Salvador,SLV,Rest of World,"6,338,197","59,270,934,820",9.0,264.6
+Equatorial Guinea,GNQ,Rest of World,"1,892,523","20,191,378,731",7.0,163.4
+Eswatini,SWZ,Rest of World,"1,242,829","9,594,910,875",1.0,44.6
+Faroe Islands,FRO,Rest of World,"55,419",,0.7,33.7
+French Polynesia,PYF,Rest of World,"281,816",,0.9,35.0
+Gabon,GAB,Rest of World,"2,538,953","36,035,291,983",5.4,307.1
+Georgia,GEO,Rest of World,"3,807,668","70,528,605,169",11.8,662.4
+Ghana,GHA,Rest of World,"34,427,417","145,431,875,240",21.0,426.5
+Greenland,GRL,Rest of World,"55,864",,0.6,35.2
+Guatemala,GTM,Rest of World,"18,406,366","146,224,632,616",19.9,515.8
+Honduras,HND,Rest of World,"10,825,704","49,738,252,980",12.9,310.2
+Hong Kong,HKG,Rest of World,"7,414,914","356,690,492,875",33.3,"1,750.3"
+Iceland,ISL,Rest of World,"393,404","16,019,540,441",3.8,171.7
+Indonesia,IDN,Rest of World,"283,487,933","3,500,093,638,879",812.2,"17,419.9"
+Iran,IRN,Rest of World,"91,567,737","1,572,209,055,082",792.6,"21,810.6"
+Iraq,IRQ,Rest of World,"46,042,015","527,639,326,800",233.6,"5,350.7"
+Israel,ISR,Rest of World,"9,387,015","336,722,563,455",52.6,"2,607.6"
+Japan,JPN,Rest of World,"123,753,041","4,774,494,846,664",961.9,"69,612.3"
+Jordan,JOR,Rest of World,"11,552,885","99,281,825,499",23.2,793.4
+Kazakhstan,KAZ,Rest of World,"20,592,574","503,634,062,609",287.0,"14,937.4"
+Kenya,KEN,Rest of World,"56,432,946","190,362,153,076",21.2,551.3
+Kuwait,KWT,Rest of World,"4,934,508","218,961,227,193",129.5,"3,875.9"
+Kyrgyzstan,KGZ,Rest of World,"7,186,014","31,703,003,147",11.8,883.2
+Lebanon,LBN,Rest of World,"5,805,962","48,741,710,654",15.7,794.7
+Libya,LBY,Rest of World,"7,381,029","91,444,480,945",65.3,"2,489.9"
+Liechtenstein,LIE,Rest of World,"39,895",,0.1,10.0
+Macao,MAC,Rest of World,"720,270",,1.1,57.5
+Malaysia,MYS,Rest of World,"35,557,670","877,584,198,429",290.2,"7,042.4"
+Mexico,MEX,Rest of World,"130,861,001","2,033,437,602,787",461.0,"22,015.9"
+Moldova,MDA,Rest of World,"3,034,967","23,827,554,273",5.3,"1,358.4"
+Monaco,MCO,Rest of World,"38,657",,,
+Mongolia,MNG,Rest of World,"3,475,541","44,809,463,232",44.7,861.5
+Montenegro,MNE,Rest of World,"638,481","12,774,399,882",2.4,122.1
+Montserrat,MSR,Rest of World,"4,414",,0.0,1.7
+Morocco,MAR,Rest of World,"38,081,176","311,654,947,615",69.1,"2,015.7"
+Namibia,NAM,Rest of World,"3,030,127","21,858,730,428",3.5,87.2
+New Caledonia,NCL,Rest of World,"292,655",,5.3,171.8
+New Zealand,NZL,Rest of World,"5,213,942","200,602,760,076",32.5,"2,012.3"
+Nicaragua,NIC,Rest of World,"6,916,136","32,764,782,125",5.6,197.7
+Nigeria,NGA,Rest of World,"232,679,482","1,134,448,580,250",135.8,"4,710.8"
+Niue,NIU,Rest of World,"1,841",,0.0,0.3
+North Korea,PRK,Rest of World,"26,498,832","40,488,847,458",62.6,"5,492.7"
+North Macedonia,MKD,Rest of World,"1,823,011","28,770,256,385",6.6,538.0
+Norway,NOR,Rest of World,"5,576,656","482,328,451,592",37.2,"2,787.3"
+Oman,OMN,Rest of World,"5,281,542","177,355,008,173",82.7,"1,673.4"
+Pakistan,PAK,Rest of World,"251,269,160","1,318,834,969,356",179.8,"5,739.8"
+Palestine,PSE,Rest of World,"5,495,447","24,076,501,614",4.8,78.0
+Panama,PAN,Rest of World,"4,515,576","94,762,119,668",12.7,360.5
+Paraguay,PRY,Rest of World,"6,929,152","65,127,634,644",7.9,208.5
+Peru,PER,Rest of World,"34,217,850","341,677,633,395",70.2,"2,161.8"
+Philippines,PHL,Rest of World,"115,843,663","1,014,811,024,029",174.9,"3,983.6"
+Qatar,QAT,Rest of World,"3,048,429","381,778,107,010",125.8,"2,590.9"
+Russia,RUS,Rest of World,"144,820,421","3,731,440,829,579","1,780.5","122,808.2"
+Saint Helena,SHN,Rest of World,"5,262",,0.0,0.4
+Saint Pierre and Miquelon,SPM,Rest of World,"5,652",,0.1,3.9
+San Marino,SMR,Rest of World,"33,606",,,
+Saudi Arabia,SAU,Rest of World,"33,962,751","1,823,886,192,336",692.1,"19,020.3"
+Serbia,SRB,Rest of World,"6,736,217","116,834,638,171",42.0,"2,924.9"
+Singapore,SGP,Rest of World,"5,832,387","461,801,118,473",53.9,"2,247.7"
+Sint Maarten (Dutch part),SXM,Rest of World,"43,372",,0.7,62.2
+South Africa,ZAF,Rest of World,"64,007,187","723,559,323,969",439.8,"22,827.0"
+South Korea,KOR,Rest of World,"51,717,587","2,137,558,645,699",583.7,"20,707.5"
+Sri Lanka,LKA,Rest of World,"23,103,561","254,748,598,293",20.8,567.9
+Switzerland,CHE,Rest of World,"8,921,979","559,384,947,989",32.1,"3,158.1"
+Syria,SYR,Rest of World,"24,672,758","52,353,139,385",31.8,"2,055.8"
+Taiwan,TWN,Rest of World,"23,213,964","1,247,874,288,934",262.3,"10,091.9"
+Tajikistan,TJK,Rest of World,"10,590,930","50,544,013,546",10.7,517.8
+Thailand,THA,Rest of World,"71,668,010","1,124,143,758,569",267.8,"8,308.3"
+Tunisia,TUN,Rest of World,"12,277,103","129,457,959,410",32.7,"1,066.2"
+Turkey,TUR,Rest of World,"87,473,800","2,385,996,374,127",513.0,"12,887.6"
+Turkmenistan,TKM,Rest of World,"7,494,494","97,502,944,727",81.0,"2,741.6"
+Turks and Caicos Islands,TCA,Rest of World,"46,563",,0.4,7.6
+Ukraine,UKR,Rest of World,"37,860,221","309,166,674,673",142.5,"31,236.5"
+United Arab Emirates,ARE,Rest of World,"11,027,135","779,701,520,404",222.0,"5,824.2"
+United Kingdom,GBR,Rest of World,"69,138,185","2,615,230,634,906",312.9,"80,079.4"
+Uruguay,URY,Rest of World,"3,386,583","69,066,228,178",8.0,476.8
+Uzbekistan,UZB,Rest of World,"36,361,859","393,572,464,308",139.2,"6,750.7"
+Vatican,VAT,Rest of World,507,,,
+Venezuela,VEN,Rest of World,"28,405,544","149,682,062,815",116.0,"7,886.5"
+Vietnam,VNM,Rest of World,"100,987,685","833,803,909,046",370.9,"5,668.9"
+Wallis and Futuna,WLF,Rest of World,"11,303",,0.0,0.9
+Zimbabwe,ZWE,Rest of World,"16,634,366","25,901,585,881",13.7,832.9
+United States,USA,United States,"345,426,566","19,493,170,182,843","4,904.1","434,866.6"
